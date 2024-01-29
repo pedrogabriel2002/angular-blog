@@ -1,0 +1,26 @@
+.container__footer {
+  border: 1px solid white;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  align-items: center;
+  gap: 40px;
+}
+
+.footer-page__text {
+  max-width: 200px;
+}
+
+.footer-page__form > form > input {
+  border-radius: 10px;
+}
+
+.footer-page__form > form > textarea {
+  border-radius: 10px;
+}
+
+.footer-page__form > form > button {
+  border-radius: 10px;
+  padding: 5px;
+}
